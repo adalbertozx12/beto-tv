@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RECORD">
+    <display-name lang="pt">RECORD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20190729010000 -0300" stop="20190729011500 -0300" channel="RECORD">
+    <title lang="pt">Jogos Pan-Americanos</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2019</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190729011500 -0300" stop="20190729060000 -0300" channel="RECORD">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190729060000 -0300" stop="20190729063000 -0300" channel="RECORD">
+    <title lang="pt">Balanço Geral Manhã SP</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190729063000 -0300" stop="20190729070000 -0300" channel="RECORD">
+    <title lang="pt">Balanço Geral Manhã</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190729070000 -0300" stop="20190729085500 -0300" channel="RECORD">
+    <title lang="pt">SP no Ar</title>
+    <desc lang="pt">O jornal apresenta as primeiras notícias do dia, o trânsito da cidade, os destaques da madrugada, adiantando o que será destaque no decorrer do dia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190729085500 -0300" stop="20190729100000 -0300" channel="RECORD">
+    <title lang="pt">Fala Brasil</title>
+    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo bom jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190729100000 -0300" stop="20190729120000 -0300" channel="RECORD">
+    <title lang="pt">Hoje em Dia</title>
+    <desc lang="pt">Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190729120000 -0300" stop="20190729150000 -0300" channel="RECORD">
+    <title lang="pt">Balanço Geral SP</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190729150000 -0300" stop="20190729154500 -0300" channel="RECORD">
+    <title lang="pt">Bela, a Feia</title>
+    <desc lang="pt">Bela, a Feia conta a história de Anabela Palhares, uma mulher modesta de 26 anos. A moça não tem muitos amigos, somente Luzia e Hortência, com quem compartilha seus sentimentos(n)</desc>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190729154500 -0300" stop="20190729164500 -0300" channel="RECORD">
+    <title lang="pt">Caminhos do Coração</title>
+    <desc lang="pt">Em Caminhos do Coração, mutações perigosas se espalham pela sociedade, transformando homens e mulheres em feras, vampiros, lobisomens, serpentes, que atacam nas ruas de São Paulo, disseminando o mal, como uma epidemia(n)</desc>
+    <credits>
+      <director>Alexandre Avancini</director>
+      <actor>Bianca Rinaldi</actor>
+      <actor>Leonardo Vieira</actor>
+      <actor>Sérgio Malheiros</actor>
+      <actor>Nanda Ziegler</actor>
+      <actor>Maitê Piragibe</actor>
+      <actor>Taumaturgo Ferreira</actor>
+      <actor>Thaís Fersoza</actor>
+      <actor>Fernando Pavão</actor>
+      <actor>Felipe Folgosi</actor>
+      <actor>Mirian Freeland</actor>
+      <actor>Petrônio Gontijo</actor>
+      <actor>Nathália Guimarães</actor>
+      <actor>Tuca Andrada</actor>
+      <actor>Théo Becker</actor>
+      <actor>Babi Xavier</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190729164500 -0300" stop="20190729180000 -0300" channel="RECORD">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190729180000 -0300" stop="20190729190500 -0300" channel="RECORD">
+    <title lang="pt">Cidade Alerta Local</title>
+    <desc lang="pt">O Cidade Alerta leva até você um olhar diferente da notícia habitual(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190729190500 -0300" stop="20190729195000 -0300" channel="RECORD">
+    <title lang="pt">Cidade Alerta Local</title>
+    <desc lang="pt">O Cidade Alerta leva até você um olhar diferente da notícia habitual(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190729195000 -0300" stop="20190729204500 -0300" channel="RECORD">
+    <title lang="pt">Topíssima</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <credits>
+      <director>Rudi Lagemann</director>
+      <actor>Camila Rodrigues</actor>
+      <actor>Felipe Cunha</actor>
+      <actor>Cristiana Oliveira</actor>
+      <actor>Floriano Peixoto</actor>
+      <actor>Denise Del Vecchio</actor>
+      <actor>Mauricio Mattar</actor>
+      <actor>Juliana Didone</actor>
+      <actor>Kadu Moliterno</actor>
+      <actor>Silvia Pfeifer</actor>
+    </credits>
+    <date>2019</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190729204500 -0300" stop="20190729213000 -0300" channel="RECORD">
+    <title lang="pt">Jezabel</title>
+    <desc lang="pt">Jezabel conta a história de uma princesa fenícia que usa sua beleza e seu poder de sedução para conquistar tudo o que deseja(n)</desc>
+    <credits>
+      <director>Alexandre Avancini</director>
+      <actor>Lidi Lisboa</actor>
+      <actor>André Bankoff</actor>
+      <actor>Iano Salomão</actor>
+      <actor>Adriana Birolli</actor>
+      <actor>Juan Alba</actor>
+      <actor>Timoteo Heiderick</actor>
+      <actor>Rafael Sardão</actor>
+      <actor>Juliana Knust</actor>
+      <actor>Flávio Galvão</actor>
+    </credits>
+    <date>2019</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190729213000 -0300" stop="20190729223000 -0300" channel="RECORD">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+</tv>
