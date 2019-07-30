@@ -4,4 +4,8 @@
     <display-name lang="pt">Globo</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
+  <channel id="Rede TV">
+    <display-name lang="pt">Rede TV</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
 </tv>
